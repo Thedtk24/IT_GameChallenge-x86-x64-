@@ -19,9 +19,12 @@ HINT;
 TO RUN;
 In the repo folder, type ;
 -----------
-```
+
 sudo chmod +x game02/seq_find
+
+And then, 
+
 ./seq_find
-```
+
 
 Good luck !!
