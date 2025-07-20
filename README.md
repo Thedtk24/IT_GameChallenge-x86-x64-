@@ -1,4 +1,4 @@
-This challenge version in this branch is for ARM processors,
+This challenge version in this branch is for x86-x64 processors,
 
 Clone the repository ;
 
